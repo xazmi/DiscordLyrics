@@ -1,8 +1,8 @@
 {
 	"DiscordToken": "optional!",
 	"SpotifyApi": {
-		"client_id": "",
-		"client_secret": "",
+		"client_id": "",b8d938f95c2947c38e064d9ddbffb9c3
+		"client_secret": "",bcab6d9a300b4c91acb799a8615e853a
 		"redirect_uri": "http://127.0.0.1:3000/authorize"
 	},
 	"MusixMatch": {
